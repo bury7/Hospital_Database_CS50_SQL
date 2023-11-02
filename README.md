@@ -1,2 +1,2 @@
-# hospital_database_cs50_sql
+# hospital_database_CS50_SQL
 This is the culmination of my work for the CS50 SQL course.
