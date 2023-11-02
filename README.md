@@ -1,5 +1,20 @@
-# CS50 SQL Fianl Project
-This is the culmination of my work for the CS50 SQL course.
+CS50 SQL Course - Database Design Document
+Table of Contents
 
-
-[Contribution guidelines for this project](Hospital_Database_CS50_SQL/DESIGN.md)
+    Introduction
+    Scope
+    Functional Requirements
+    Database Schema
+        Entities
+            Patients
+            Doctors
+            Doctor_Cabinet
+            Centers
+            Departments
+            Cabinets
+            Appointments
+            Reports
+            Bills
+        Relationships
+        Optimizations
+        Limitations
