@@ -16,8 +16,12 @@ To get started with the Hospital Database project and explore the database desig
 
 Feel free to explore the database design, modify it to meet specific requirements, and use it as a foundation for your own SQL projects.
 
+## Course Link
+
+To access the CS50 SQL course and start learning about SQL, database management, and much more, visit the official course page on the edX platform: [CS50's Introduction to SQL](https://www.edx.org/professional-certificate/cs50s-introduction-to-computer-science).
+
+Whether you're a student, a professional, or simply curious about databases and SQL, this course is a valuable resource to enhance your skills and knowledge.
+
 ## License
 
 This repository is provided under the [MIT License](LICENSE) for educational and reference purposes.
-
-Enjoy your journey through the world of SQL and database management!
