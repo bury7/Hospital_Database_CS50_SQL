@@ -129,7 +129,7 @@ The `bills` table includes:
 
 The relationships between the database's entities are shown in the entity relationship diagram below.
 
-![ER Diagram](diagram.png)
+![ER Diagram](diagrama.png)
 
 As the diagram makes clear:
 
