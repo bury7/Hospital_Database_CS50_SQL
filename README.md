@@ -25,7 +25,7 @@ These files are critical for understanding the structure and functionality of th
 
 ## Course URL
 
-To begin learning about SQL, database management, and other topics covered in the CS50 SQL course, go to the official course website on the edX platform: [CS50's Introduction to SQL].(https://www.edx.org/professional-certificate/cs50s-introduction-to-sql).
+To begin learning about SQL, database management, and other topics covered in the CS50 SQL course, go to the official course website on the edX platform: [CS50's Introduction to SQL](https://www.edx.org/professional-certificate/cs50s-introduction-to-sql).
 
 
 ## Permission
