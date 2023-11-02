@@ -14,20 +14,27 @@ The design document for the Hospital Database project is available in the [DESIG
 
 This repository contains the following important files and SQL scripts:
 
-- [**schema.sql**](schema.sql): This file defines the database schema and tables used in the hospital database. It includes the tables for patients, doctors, medical centers, departments, cabinets, appointments, reports, and bills, along with the necessary foreign keys and indexes.
+- [schema.sql](schema.sql): This file defines the database schema and tables used in the hospital database. It includes the tables for patients, doctors, medical centers, departments, cabinets, appointments, reports, and bills, along with the necessary foreign keys and indexes.
 
-- [**queries.sql**](queries.sql): This file contains a set of SQL queries that demonstrate the functionality and capabilities of the hospital database. It includes queries for finding appointments, reports, bills, doctor locations, patient-doctor relationships, and more. These queries help showcase the practical usage of the database.
+- [queries.sql](queries.sql): This file contains a set of SQL queries that demonstrate the functionality and capabilities of the hospital database. It includes queries for finding appointments, reports, bills, doctor locations, patient-doctor relationships, and more. These queries help showcase the practical usage of the database.
 
-- [**medical.db**](medical.db): This SQLite database file represents the hospital database, which is generated based on the schema defined in `schema.sql`. It contains actual data, allowing you to explore and work with the hospital's patient and appointment information.
+- [medical.db](medical.db): This SQLite database file represents the hospital database, which is generated based on the schema defined in schema.sql. It contains actual data, allowing you to explore and work with the hospital's patient and appointment information.
 
 These files are essential for understanding the structure and functionality of the hospital database, making it easier to work with and explore the data.
 
+## Certificate
+
+Here's my CS50 SQL course certificate:
+
+![CS50 SQL Certificate](certificate_image.png)
+
 ## Course Link
 
-To access the CS50 SQL course and start learning about SQL, database management, and much more, visit the official course page on the edX platform: [CS50's Introduction to SQL](https://www.edx.org/learn/sql/harvard-university-cs50-s-introduction-to-databases-with-sql).
+To access the CS50 SQL course and start learning about SQL, database management, and much more, visit the official course page on the edX platform: [CS50's Introduction to SQL](https://www.edx.org/professional-certificate/cs50s-introduction-to-sql).
 
 Whether you're a student, a professional, or simply curious about databases and SQL, this course is a valuable resource to enhance your skills and knowledge.
 
+
 ## License
 
-This repository is provided under the [MIT License](LICENSE) for educational and reference purposes.
+This repository is provided under the MIT License for educational and reference purposes.
