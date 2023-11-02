@@ -19,7 +19,7 @@ The following files and SQL scripts are included in this repository:
   
 - [queries.sql](queries.sql): This file contains a collection of SQL queries that demonstrate the hospital database's capability. It provides queries for locating appointments, reports, bills, doctor locations, patient-doctor relationships, and other information. These queries demonstrate the database's practical application.
 
--[medical.db](medical.db): The hospital database is represented by this SQLite database file, which is constructed based on the schema given in schema.sql. It features actual data, allowing you to examine and engage with patient and appointment information from the hospital.
+- [medical.db](medical.db): The hospital database is represented by this SQLite database file, which is constructed based on the schema given in schema.sql. It features actual data, allowing you to examine and engage with patient and appointment information from the hospital.
 
 These files are critical for understanding the structure and functionality of the hospital database, which makes working with and exploring the data easier.
 
