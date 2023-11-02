@@ -2,8 +2,6 @@
 
 By Artem Nizhyvenko
 
-Video overview: <URL HERE>
-
 ## Scope
 The CS50 SQL database has everything required to make the medical facility's operations easier by keeping track of patients' appointments with doctors. Thus, the following are covered by the database's scope:
 
