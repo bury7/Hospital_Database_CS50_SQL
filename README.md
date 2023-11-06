@@ -4,8 +4,7 @@ This repository is my final project for the CS50 SQL course, and it acts as a de
 
 
 ## Overview of the Course
-
-The CS50 SQL course introduced me to SQL (Structured Query Language) and database administration essentials. It covers a variety of topics related to database design, querying, and optimization. This final project is the pinnacle of the skills and information I obtained over the semester.
+The CS50 SQL course introduced me to SQL (Structured Query Language) and essential database administration concepts. It covered topics ranging from database design to querying and optimization. The final project was a culmination of the skills I had acquired throughout the course, showcasing my ability to work with databases and apply SQL for practical solutions. This course provided me with a solid foundation in SQL and a deeper understanding of how to manage and query databases effectively.
 
 
 ## Design Document
@@ -28,7 +27,7 @@ These files are critical for understanding the structure and functionality of th
 
 ## Course URL
 
-To learn about CS50 SQL course, go to the official course website on the edX platform: [CS50's Introduction to SQL](https://www.edx.org/professional-certificate/cs50s-introduction-to-sql).
+To learn about CS50 SQL course, go to the official course website on the edX platform: [CS50's Introduction to Databases with SQL](https://www.edx.org/learn/sql/harvard-university-cs50-s-introduction-to-databases-with-sql).
 
 
 ## Permission
