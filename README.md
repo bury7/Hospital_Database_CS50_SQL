@@ -25,6 +25,12 @@ The following files and SQL scripts are included in this repository:
 These files are critical for understanding the structure and functionality of the hospital database, which makes working with and exploring the data easier.
 
 
+## How to install
+
+
+## How to use
+
+
 ## Course URL
 
 To learn about CS50 SQL course, go to the official course website on the edX platform: [CS50's Introduction to Databases with SQL](https://www.edx.org/learn/sql/harvard-university-cs50-s-introduction-to-databases-with-sql).
