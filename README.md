@@ -32,6 +32,6 @@ These files are critical for understanding the structure and functionality of th
 To learn about CS50 SQL course, go to the official course website on the edX platform: [CS50's Introduction to Databases with SQL](https://www.edx.org/learn/sql/harvard-university-cs50-s-introduction-to-databases-with-sql).
 
 
-## Permission
+## License
 
 This repository is provided for educational and reference purposes under the MIT License.
