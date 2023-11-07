@@ -1,5 +1,7 @@
 # Hospital Database
 
+Video overview: <https://youtu.be/9H1FseEMpak>
+
 This repository is my final project for the CS50 SQL course, and it acts as a design document for a SQL database that oversees the operations of a medical facility. The database is intended to track patients' doctor appointments, including patient information, doctor details, medical centers, departments, cabinets, appointments, reports, and bills.
 
 
